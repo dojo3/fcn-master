@@ -50,7 +50,9 @@ function keyControl(e, container) {
 }
 
 function onSelect(val) {
-    alert(val)
+
+    window.location.assign(val += ".html");
+
 }
 
 $(".searchable input").focus(function () {
