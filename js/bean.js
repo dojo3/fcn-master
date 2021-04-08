@@ -49,9 +49,10 @@ function keyControl(e, container) {
     });
 }
 
+
 function onSelect(val) {
 
-    window.location.assign(val += ".html");
+    window.location.assign((val) += ".html");
 
 }
 
