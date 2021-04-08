@@ -38,7 +38,8 @@
 *::before,
 *::after {
   -webkit-box-sizing: border-box;
-  box-sizing: border-box; }
+  box-sizing: border-box;
+  }
 
 html {
   font-family: sans-serif;
@@ -166,7 +167,8 @@ figure {
 
 img {
   vertical-align: middle;
-  border-style: none; }
+  border-style: none;
+  }
 
 svg {
   overflow: hidden;
@@ -6498,7 +6500,8 @@ button.bg-dark:focus {
 
 .mb-4,
 .my-4 {
-  margin-bottom: 1.5rem !important; }
+  margin-bottom: 1.rem !important;
+  }
 
 .ml-4,
 .mx-4 {
