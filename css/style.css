@@ -9002,8 +9002,9 @@ textarea.form-control {
     .ftco-footer .ftco-footer-widget ul li a span {
       color: #e86ed0; }
   .ftco-footer .ftco-footer-widget .btn-primary {
-    background: #fff !important;
-    border: 2px solid #fff !important; }
+    background: #7c3131 !important;
+    border: 2px solid #fff !important;
+    }
     .ftco-footer .ftco-footer-widget .btn-primary:hover {
       background: #fff;
       border: 2px solid #fff !important; }
